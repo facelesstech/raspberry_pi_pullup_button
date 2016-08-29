@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Thu 14 Apr 2016 16:43:19 BST
+
+BeginCmp
+TimeStamp = /570FA4C4;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /570FA4E6;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /570FA4D7;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = button_single_custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /570FB842;
+Reference = U1;
+ValeurCmp = PI_SHUTDOWN;
+IdModule  = pi_shutdown_4pin;
+EndCmp
+
+EndListe
